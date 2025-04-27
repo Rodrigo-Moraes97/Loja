@@ -193,7 +193,7 @@
 
 @media (max-width: 800px) {
 
-    .bitcoin-content,
+    .empresa-content,
     .grid {
         grid-template-columns: 1fr;
     }
